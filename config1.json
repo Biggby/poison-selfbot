@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "password": "",
+    "prefix": "=",
+    "instagram": "https://www.instagram.com/mypoststrash",
+    "afk_message": "Away From My PC, Will Reply When I Get Back", 
+    "nitro_sniper": true, 
+    "giveaway_sniper": false,
+
+    "stream_url": "https://twitch.tv/tfue",
+    "tts_language": "en"
+}
